@@ -27,7 +27,7 @@ export default function Explore() {
   const renderDoctorCard = (doctor) => (
     <View key={doctor.id} style={styles.doctorCard}>
       <Image
-        source={require('../assets/images/man-1.png')}
+        source={require('../assets/images/norberto.png')}
         style={styles.doctorImage}
       />
       <View style={styles.doctorInfo}>
