@@ -1,12 +1,12 @@
 {
   "expo": {
-    "name": "desafio_layout",
-    "slug": "desafio_layout",
+    "name": "HealthTech",
+    "slug": "HealthTech",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
-    "scheme": "desafio_layout",
+    "scheme": "HealthTech",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
